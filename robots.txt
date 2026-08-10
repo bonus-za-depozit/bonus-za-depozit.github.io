@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bonus-za-depozit.github.io
+Sitemap: https://bonus-za-depozit.github.io/sitemap.xml
